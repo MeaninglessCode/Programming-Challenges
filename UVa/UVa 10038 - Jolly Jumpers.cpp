@@ -11,7 +11,7 @@ int main()
         std::vector<int> sequence(n);
 
         for (int i = 0; i < n; i++)
-            scanf("%d", &sequence[i]);
+            std::cin >> sequence[i];
 
         std::vector<bool> jumps(n - 1);
         for (int i = 0; i < n - 1; i++)
