@@ -12,7 +12,6 @@ int main()
 
     while (std::cin >> n >> m && n != 0 && m != 0)
     {
-        // Added at your suggestion after I went to your office hours.
         if (field_num > 1)
             std::cout << "\n";
 
