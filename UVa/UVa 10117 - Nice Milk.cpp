@@ -2,7 +2,7 @@
 I consulted https://blog.csdn.net/metaphysis/article/details/6979026
 to better understand the problem. Google translate was used to read the
 text and comments within the code. Additionally, I consulted the forum
-posts at ttps://onlinejudge.org/board/viewtopic.php?t=17901 for an
+posts at https://onlinejudge.org/board/viewtopic.php?t=17901 for an
 additional helpful test case when I was testing. This additional case
 helped me find and fix a bug in this program.
 */
